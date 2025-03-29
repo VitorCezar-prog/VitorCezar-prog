@@ -22,7 +22,7 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ✔️ Desenvolvimento de aplicações dinâmicas  
 
 ## 📬 Contato
-📧 Email: [vitorcezar668@gmail.com](mailto:seuemail@email.com)  
+📧 Email: [vitorcezar668@gmail.com](mailto:seuemail@email.com)(mailto:vitorcezar668@gmail.com)
 🔗 GitHub: [https://github.com/VitorCezar-prog/VitorCezar-prog](https://github.com/seu-usuario)   
   
 
